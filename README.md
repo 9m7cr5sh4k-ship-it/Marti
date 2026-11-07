@@ -12,14 +12,14 @@ Planilla para llevar los ingresos y gastos de un consultorio de cosmetología + 
 
 | Hoja | Para qué |
 |---|---|
-| Cómo usar | Instrucciones cortas |
-| Panel | Elegís mes y año: cobrado, comisiones, gastos, **ganancia**, margen, meta, por servicio, por categoría y el año mes a mes con gráfico |
-| Sesiones | Una fila por cada sesión cobrada |
-| Gastos | Una fila por cada gasto del trabajo |
-| Servicios | Catálogo con precio, duración y costo de insumos → ganancia por sesión y por hora |
-| Listas | Categorías de gasto (fijo/variable), medios de pago con su % de comisión, rubros |
+| Resumen | Período a elegir: ingresos, gastos, ganancia neta, margen, sesiones, ticket promedio, comisiones y meta (con comparación contra el mes anterior), detalle por servicio, por categoría, por área y evolución anual con gráfico |
+| Ingresos | Una fila por cada sesión cobrada |
+| Gastos | Una fila por cada gasto del consultorio |
+| Servicios | Precio, duración y costo de insumos → margen por sesión y por hora |
+| Configuración | Nombre, meta mensual, medios de pago con su comisión, categorías de gasto, áreas |
+| Guía | Instrucciones de uso |
 
-Cremita = se completa · Gris = se calcula solo. Los precios, comisiones y la meta son de ejemplo.
+Las columnas con fondo gris se calculan solas. Los precios de los servicios y las comisiones son de referencia.
 
 ## Regenerar
 
